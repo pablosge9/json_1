@@ -1,0 +1,31 @@
+{
+    "numero-pedido": "2024-04-04",
+    "hora": "14:00:00",
+    "usuario": {
+        "nombre-usuario": "jl3405",
+        "nombre-completo": "Jose Luis Benito Andújar",
+        "direccion-envio": {
+            "calle": "Norte",
+            "poblacion": "Villarrobledo",
+            "cp": "13789"
+        }
+    },
+
+    "lista-articulos":[{
+        "codigo": "A34B",
+        "descripcion": "Barra de Pan",
+        "precio": 10
+    },{
+        "codigo": "A34C",
+        "descripcion": "Botella de Aceite",
+        "precio": 10
+    },{
+        "codigo": "B34H",
+        "descripcion": "Bolsa de Tomates",
+        "precio": 2.50
+    }]
+
+
+
+    
+}

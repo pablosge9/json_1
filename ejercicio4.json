@@ -1,0 +1,68 @@
+{
+    "concesionarios": [
+      {
+        "nombre": "Concesionario 1",
+        "direccion": "Calle Roble 535",
+        "localidad": "Villarrobledo",
+        "telefonos": ["123456789", "987654321"],
+        "vehiculos": [
+          {
+            "matricula": "AWS3456",
+            "tipo": "turismo",
+            "modelo": "Modelo 3",
+            "cilindrada": 2000,
+            "combustible": "Gasolina",
+            "color": "Rojo",
+            "asegurado": true
+          },
+          
+          {
+            "matricula": "DRT8537",
+            "tipo": "furgoneta",
+            "modelo": "Modelo 8",
+            "cilindrada": 2500,
+            "combustible": "Diesel",
+            "color": "Azul",
+            "asegurado": false
+          }
+        ]
+      },
+
+
+      {
+        "nombre": "Concesionario 2",
+        "direccion": "Avenida Golondrinas 431",
+        "localidad": "Madrid",
+        "telefonos": ["111222333", "444555666", "777888999"],
+        "vehiculos": [
+          {
+            "matricula": "INR2984",
+            "tipo": "turismo",
+            "modelo": "Modelo 1",
+            "cilindrada": 1800,
+            "combustible": "Gasolina",
+            "color": "Negro",
+            "asegurado": false
+          },
+          {
+            "matricula": "JRW2350",
+            "tipo": "turismo",
+            "modelo": "Modelo 2",
+            "cilindrada": 2200,
+            "combustible": "Diesel",
+            "color": "Negro",
+            "asegurado": true
+          },
+          {
+            "matricula": "MDS4829",
+            "tipo": "turismo",
+            "modelo": "Modelo 5",
+            "cilindrada": 1700,
+            "combustible": "Diesel",
+            "color": "Blanco",
+            "asegurado": true
+          }
+        ]
+      }
+    ]
+  }
